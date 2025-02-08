@@ -1,4 +1,4 @@
-# **README for Virtual Assistant API**
+# **README for Virtual Assistant API** 
 
 ## **Introduction**
 The **Virtual Assistant API** is designed to provide users with personalized responses based on their input and the day of the week. This API acts as the foundation for a virtual assistant app, delivering a **friendly greeting** and a **cheerful message** to enhance the user's experience.
